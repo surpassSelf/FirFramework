@@ -1,0 +1,16 @@
+2018-07-27 22:15:58,850 [1] INFO  WebServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-07-27 22:16:41,623 [1] INFO  WebServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-07-27 22:16:41,681 [1] INFO  WebServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-07-27 22:16:41,690 [1] INFO  WebServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-07-27 22:16:51,235 [1] INFO  WebServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-07-27 22:16:51,292 [1] INFO  WebServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-07-27 22:16:51,303 [1] INFO  WebServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-07-27 22:18:28,985 [1] INFO  WebServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-07-27 22:18:29,043 [1] INFO  WebServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-07-27 22:18:29,053 [1] INFO  WebServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-07-27 22:24:51,293 [1] INFO  WebServer.Program [(null)] - pfx:E:\Workspace\KickIt\Project_KickIt_Server\Publish\server.pfx
+2018-07-27 22:25:05,733 [1] INFO  WebServer.Program [(null)] - pfx:E:\Workspace\KickIt\Project_KickIt_Server\Publish\server.pfx
+2018-07-27 22:26:41,304 [1] INFO  WebServer.Program [(null)] - pfx:E:\Workspace\KickIt\Project_KickIt_Server\Publish\server.pfx
+2018-07-27 22:26:41,776 [1] INFO  WebServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-07-27 22:26:41,803 [1] INFO  WebServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-07-27 22:26:41,817 [1] INFO  WebServer.Startup [(null)] - Startup.Configure------------------->>>>

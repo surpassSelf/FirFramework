@@ -1,0 +1,5 @@
+2018-07-10 20:18:35,621 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-07-10 20:18:50,028 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-07-10 20:19:18,620 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-07-10 20:19:18,704 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-07-10 20:19:18,707 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>

@@ -1,0 +1,72 @@
+2018-08-03 20:31:40,921 [1] INFO  FirServer.Program [(null)] - pfx:E:\Workspace\FishBird\fishbird_server\WebServer\server.pfx
+2018-08-03 20:31:41,843 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-08-03 20:31:42,129 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-08-03 20:31:42,131 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-08-03 20:33:19,295 [1] INFO  FirServer.Program [(null)] - pfx:E:\Workspace\FishBird\fishbird_server\WebServer\server.pfx
+2018-08-03 20:33:19,901 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-08-03 20:33:20,030 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-08-03 20:33:20,033 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-08-03 20:33:54,180 [1] INFO  FirServer.Program [(null)] - pfx:E:\Workspace\FishBird\fishbird_server\WebServer\server.pfx
+2018-08-03 20:33:54,778 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-08-03 20:33:54,913 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-08-03 20:33:54,915 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-08-03 20:36:48,219 [1] INFO  FirServer.Program [(null)] - pfx:E:\Workspace\FishBird\fishbird_server\WebServer\server.pfx
+2018-08-03 20:36:48,783 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-08-03 20:36:48,919 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-08-03 20:36:48,922 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-08-03 20:39:21,237 [1] INFO  FirServer.Program [(null)] - pfx:E:\Workspace\FishBird\fishbird_server\WebServer\server.pfx
+2018-08-03 20:39:21,827 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-08-03 20:39:21,962 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-08-03 20:39:21,964 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-08-03 20:44:05,726 [1] INFO  FirServer.Program [(null)] - pfx:E:\Workspace\FishBird\fishbird_server\WebServer\server.pfx
+2018-08-03 20:44:06,308 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-08-03 20:44:06,438 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-08-03 20:44:06,441 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-08-03 21:26:58,877 [1] INFO  FirServer.Program [(null)] - pfx:E:\Workspace\FishBird\fishbird_server\WebServer\server.pfx
+2018-08-03 21:26:59,534 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-08-03 21:26:59,669 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-08-03 21:26:59,672 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-08-03 21:27:53,463 [1] INFO  FirServer.Program [(null)] - pfx:E:\Workspace\FishBird\fishbird_server\WebServer\server.pfx
+2018-08-03 21:27:53,974 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-08-03 21:27:54,195 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-08-03 21:27:54,198 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-08-03 21:37:48,843 [1] INFO  FirServer.Program [(null)] - pfx:E:\Workspace\FishBird\fishbird_server\WebServer\server.pfx
+2018-08-03 21:37:49,481 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-08-03 21:37:49,612 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-08-03 21:37:49,615 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-08-03 21:38:10,301 [1] INFO  FirServer.Program [(null)] - pfx:E:\Workspace\FishBird\fishbird_server\WebServer\server.pfx
+2018-08-03 21:38:10,888 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-08-03 21:38:11,034 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-08-03 21:38:11,036 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-08-03 21:39:18,680 [1] INFO  FirServer.Program [(null)] - pfx:E:\Workspace\FishBird\fishbird_server\WebServer\server.pfx
+2018-08-03 21:39:19,264 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-08-03 21:39:19,420 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-08-03 21:39:19,425 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-08-03 21:41:52,835 [1] INFO  FirServer.Program [(null)] - pfx:E:\Workspace\FishBird\fishbird_server\WebServer\server.pfx
+2018-08-03 21:41:53,362 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-08-03 21:41:53,537 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-08-03 21:41:53,540 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-08-03 21:42:27,781 [1] INFO  FirServer.Program [(null)] - pfx:E:\Workspace\FishBird\fishbird_server\WebServer\server.pfx
+2018-08-03 21:42:28,308 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-08-03 21:42:28,481 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-08-03 21:42:28,483 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-08-03 21:52:20,459 [1] INFO  FirServer.Program [(null)] - pfx:E:\Workspace\FishBird\fishbird_server\WebServer\server.pfx
+2018-08-03 21:52:21,040 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-08-03 21:52:21,171 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-08-03 21:52:21,173 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-08-03 22:40:15,043 [1] INFO  FirServer.Program [(null)] - pfx:E:\Workspace\FishBird\fishbird_server\WebServer\server.pfx
+2018-08-03 22:40:15,629 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-08-03 22:40:15,769 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-08-03 22:40:15,771 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-08-03 22:57:47,466 [1] INFO  FirServer.Program [(null)] - pfx:E:\Workspace\FishBird\fishbird_server\WebServer\server.pfx
+2018-08-03 22:57:48,051 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-08-03 22:57:48,203 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-08-03 22:57:48,206 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-08-03 23:29:01,536 [1] INFO  FirServer.Program [(null)] - pfx:E:\Workspace\FishBird\fishbird_server\WebServer\server.pfx
+2018-08-03 23:29:02,122 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-08-03 23:29:02,263 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-08-03 23:29:02,265 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-08-03 23:30:12,322 [1] INFO  FirServer.Program [(null)] - pfx:E:\Workspace\FishBird\fishbird_server\WebServer\server.pfx
+2018-08-03 23:30:13,080 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-08-03 23:30:13,224 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-08-03 23:30:13,227 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>

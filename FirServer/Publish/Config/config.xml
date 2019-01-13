@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nodes>
+  <global name="全局配置" percent="1:10" takecashPoundage="1:0.3" failAmount="20"/>
+  <lobbys>
+     <lobby id="1001" name="初级场" maxUserCount="100" maxRoomCount="10"/>
+     <lobby id="1002" name="中级场" maxUserCount="100" maxRoomCount="10" />
+     <lobby id="1003" name="高级场" maxUserCount="100" maxRoomCount="10"/>
+  </lobbys>
+  <recharges percent="1:10">
+     <recharge id="2001" name="8"/>
+     <recharge id="2002" name="88"/> 
+     <recharge id="2003" name="138"/>
+     <recharge id="2003" name="338"/>
+     <recharge id="2003" name="538"/>
+  </recharges>
+</nodes>
+   
+

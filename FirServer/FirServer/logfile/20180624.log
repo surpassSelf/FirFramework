@@ -1,0 +1,37 @@
+2018-06-24 09:40:37,767 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-06-24 09:40:37,913 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-06-24 09:40:37,917 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-06-24 09:53:13,214 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-06-24 09:53:13,264 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-06-24 09:53:13,266 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-06-24 10:17:52,720 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-06-24 10:17:52,789 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-06-24 10:17:52,791 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-06-24 10:19:40,047 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-06-24 10:19:40,127 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-06-24 10:19:40,130 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-06-24 10:22:04,459 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-06-24 10:22:04,510 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-06-24 10:22:04,512 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-06-24 10:45:39,319 [16] DEBUG FirServer.Controllers.GatewayController [(null)] - action:user method:register data:{"username":"jarjin", "password":"testpwd"}
+2018-06-24 10:45:53,016 [9] DEBUG FirServer.Controllers.GatewayController [(null)] - action:user method:register data:{"username":"jarjin", "password":"testpwd"}
+2018-06-24 10:46:11,464 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-06-24 10:46:11,535 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-06-24 10:46:11,538 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-06-24 10:46:41,195 [8] DEBUG FirServer.Controllers.GatewayController [(null)] - action:user method:register data:{"username":"jarjin", "password":"testpwd"}
+2018-06-24 12:54:42,482 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-06-24 12:54:42,562 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-06-24 12:54:42,565 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-06-24 12:59:35,614 [8] DEBUG FirServer.Controllers.GatewayController [(null)] - action:user method:register data:{"username":"jarjin", "password":"testpwd"}
+2018-06-24 13:01:05,996 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-06-24 13:01:06,086 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-06-24 13:01:06,090 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-06-24 13:01:17,689 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-06-24 13:01:17,773 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-06-24 13:01:17,775 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-06-24 13:05:00,214 [10] DEBUG FirServer.Controllers.GatewayController [(null)] - action:user method:register data:{"username": "gudan", "password": "1234" }
+2018-06-24 13:06:05,075 [21] DEBUG FirServer.Controllers.GatewayController [(null)] - action:user method:register data:{"username": "gudan", "password": "1234" }
+2018-06-24 13:06:39,349 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-06-24 13:06:39,421 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-06-24 13:06:39,424 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-06-24 13:06:49,003 [11] DEBUG FirServer.Controllers.GatewayController [(null)] - action:user method:register data:{"username": "gudan", "password": "1234" }

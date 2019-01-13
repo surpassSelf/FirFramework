@@ -1,0 +1,13 @@
+E:\Workspace\FishBird\fishbird_server\WebServer
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=WebServer
+--content-root=E:\Workspace\FishBird\fishbird_server\WebServer
+--file=E:\Workspace\FishBird\fishbird_server\WebServer\Pages\About.cshtml
+--file=E:\Workspace\FishBird\fishbird_server\WebServer\Pages\Admin.cshtml
+--file=E:\Workspace\FishBird\fishbird_server\WebServer\Pages\Contact.cshtml
+--file=E:\Workspace\FishBird\fishbird_server\WebServer\Pages\Error.cshtml
+--file=E:\Workspace\FishBird\fishbird_server\WebServer\Pages\Index.cshtml
+--file=E:\Workspace\FishBird\fishbird_server\WebServer\Pages\_Layout.cshtml
+--file=E:\Workspace\FishBird\fishbird_server\WebServer\Pages\_ValidationScriptsPartial.cshtml
+--file=E:\Workspace\FishBird\fishbird_server\WebServer\Pages\_ViewImports.cshtml
+--file=E:\Workspace\FishBird\fishbird_server\WebServer\Pages\_ViewStart.cshtml

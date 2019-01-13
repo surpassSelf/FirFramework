@@ -1,0 +1,13 @@
+2018-07-27 00:32:39,159 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-07-27 00:32:50,219 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-07-27 21:21:10,564 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-07-27 21:21:20,437 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-07-27 21:26:57,926 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-07-27 21:26:58,010 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-07-27 21:26:58,017 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-07-27 21:27:25,728 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-07-27 21:27:25,778 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-07-27 21:27:25,788 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>
+2018-07-27 22:23:34,226 [1] INFO  FirServer.Common.MessageCenter [(null)] - Initialize Success!!!
+2018-07-27 22:23:34,284 [1] INFO  FirServer.Common.ManagerCenter [(null)] - Initialize Success!!!
+2018-07-27 22:23:34,286 [1] INFO  FirServer.Startup [(null)] - Startup.Configure------------------->>>>

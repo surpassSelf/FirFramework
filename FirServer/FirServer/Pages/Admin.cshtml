@@ -1,0 +1,63 @@
+﻿@page
+@model AdminModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<h3>@Model.Message</h3>
+<html>
+<body>
+    @if (!@Model.IsVaild())
+    {
+        <form method="post" asp-controller="Account" asp-action="Login" asp-route-returnurl="@Model.ReturnUrl">
+            <div>
+                <label asp-for="@Model.Username"></label>
+                <input asp-for="@Model.Username" />
+            </div>
+
+            <div>
+                <label asp-for="@Model.Password"></label>
+                <input asp-for="@Model.Password" />
+            </div>
+            <input type="submit" value="Login" />
+        </form>
+    }
+    else
+    {
+        @if (Model.Rows != null)
+        {
+            <h1>FishBird Members</h1>
+            <table border="1" width="100%">
+                <tr>
+                    <th style="text-align:center">Header</th>
+                    <th style="text-align:center">NickName</th>
+                    <th style="text-align:center">Model</th>
+                    <th style="text-align:center">Language</th>
+                    <th style="text-align:center">City</th>
+                    <th style="text-align:center">Province</th>
+                    <th style="text-align:center">OSVersion</th>
+                    <th style="text-align:center">Count</th>
+                    <th style="text-align:center">LastTime</th>
+                </tr>
+                @foreach (System.Data.DataRow row in Model.Rows)
+                {
+                    <tr>
+                        @{
+                            var avatarUrl = row["avatarUrl"].ToString();
+                            avatarUrl = System.Web.HttpUtility.UrlDecode(avatarUrl, System.Text.Encoding.UTF8);
+                        }
+                        <td width="32" align="center"><img src="@avatarUrl" width="32" height="32" /></td>
+                        <td>@row["nickname"]</td>
+                        <td>@row["model"]</td>
+                        <td style="text-align:center">@row["language"]</td>
+                        <td style="text-align:center">@row["city"]</td>
+                        <td style="text-align:center">@row["province"]</td>
+                        <td style="text-align:center">@row["version"]</td>
+                        <td style="text-align:center">@row["count"]</td>
+                        <td style="text-align:center">@row["lasttime"]</td>
+                    </tr>
+                }
+            </table>
+        }
+    }
+</body>
+</html>
